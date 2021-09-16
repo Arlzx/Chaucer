@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Canterbury Tales: The Knight's Tale - Ellesmere Manuscript, Transcription</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>DHUM-1100</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Transcribed from MS EL 26 C 9, The Huntington Library, San Marino, California, https://www.bl.uk/collection-items/ellesmere-manuscript</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text>
+      <front>
+         <figure type="initial">
+               <p>One two line historiated initial</p>
+         </figure>
+      <p>
+            <l>Iamque domos patrias <placeName>Sithice</placeName> post aspera gentis</l> 
+            <l>presia laurigero etc</l>
+            <l>Heere bigynneth the knyghtes tale</l>
+         <figure type="illustration">
+            <p>a portrait of a knight on horse, spanning ten lines</p>
+         </figure>
+      </p>
+      </front>
+      <body>
+         <figure type="initial">
+            <p>One six line historiated initial</p>
+         </figure>
+        <p>
+            <l>WHilom as olde stories tellen <rhyme type="s">vs</rhyme></l>
+            <l>Ther was a duc at highte <rhyme type="s"><persName>Theseus</persName></rhyme></l>
+            <l>Of <persName>Atthenes</persName> he was lord and <rhyme type="-our">gouernour</rhyme></l>
+            <l>And in his tyme swich a <rhyme type="our">Conquerour</rhyme></l>
+            <l>That gretter was ther noon vnder the <rhyme type="nne">Sonne</rhyme></l>
+            <l>ful many a riche contree hadde he <rhyme type="nne">wonne</rhyme></l>
+            <l>What with his wysdom and his <rhyme type="y">chiualrie</rhyme></l>
+            <l>He conquered al the regne of <rhyme type="y"><persName>Femenye</persName></rhyme></l>
+            <l>That whilom was ycleped <rhyme type="a"><placeName>Scithia</placeName></rhyme></l>
+            <l>And wedded the queene <rhyme type="a"><persName>ypolita</persName></rhyme></l>
+            <l>And broghte hire hoom with hym in his <rhyme type="ee">contree</rhyme></l>
+            <l>With muchel glorie and greet <rhyme type="ee">solempnytee</rhyme></l>
+            <l>And eek hir faire suster <rhyme type="y"><persName>Emelye</persName></rhyme></l>
+            <l>And thus with victorie and with <rhyme type="y">melodye</rhyme></l>
+            <l>Lete I this noble duc to <placeName>Atthenes</placeName> <rhyme type="d">ryde</rhyme></l>
+            <l>And al his hoost in Armes hym <rhyme type="d">bisyde</rhyme></l>
+            <l>And certes if it nere to long to <rhyme type="ere">heere</rhyme></l>
+            <l>I wolde yow haue toold fully the <rhyme type="ere">manere</rhyme></l>
+            <l>How wonnen was the regne of <rhyme type="y"><persName>femenye</persName></rhyme></l>
+            <l>By <persName>Theseus</persName> and by his <rhyme type="y">chiualrye</rhyme></l>
+            <l>And of the grete bataille for the <rhyme type="ones">nones</rhyme></l>
+            <l>Bitwixen <persName>Atthenes</persName> and <rhyme type="ones"><persName>Amazones</persName></rhyme></l>
+            <l>And how asseged was <rhyme type="a"><persName>ypolita</persName></rhyme></l>
+            <l>The faire hardy queene of <rhyme type="a"><placeName>Scithia</placeName></rhyme></l>
+            <l>And of the feste that was at hir <rhyme type="ynge">weddynge</rhyme></l>
+            <l>And of the tempest at hir hoom <rhyme type="ynge">comynge</rhyme></l>
+            <l>But al that thyng I moot as now <rhyme type="ere">forbere</rhyme></l>
+            <l>I haue god woot a large feeld to <rhyme type="ere">ere</rhyme></l>
+            <l>And wayke been the Oxen in my <rhyme type="ough">Plough</rhyme></l>
+            <l>The remenant of the tale is long <rhyme type="ough">ynough</rhyme></l>
+            <l>I wol nat letten eek noon of this <rhyme type="t">route</rhyme></l>
+            <l>Lat euery felawe telle his tale <rhyme type="t">aboute</rhyme></l>
+            <l>And lat se now who shal the soper <rhyme type="ynne">wynne</rhyme></l>
+            <l>And ther I lefte I wol ayeyn <rhyme type="ynne">bigynne</rhyme></l>
+           <figure type="initial">
+              <p>One four-line historiated initial</p>
+           </figure> 
+           <l>This duc of whom I make <rhyme type="oun">mencioun</rhyme></l>
+           <figure type="sign">
+              <p>on the right side of the line, a signing seems like "Ranat"</p>
+           </figure>
+            <l>Whan he was come almoost vn to the <rhyme type="oun">toun</rhyme></l>
+            <l>In al his wele and in his mooste <rhyme type="ide">pride</rhyme></l>
+            <l>He was war as he caste his eye <rhyme type="ide">aside</rhyme></l>
+            <l>Where that ther kneled in the <rhyme type="weye">weye</rhyme></l>
+            <l>A compaignye of ladyes tweye and <rhyme type="weye">tweye</rhyme></l>
+        </p>
+      </body>
+   </text>
+</TEI>
